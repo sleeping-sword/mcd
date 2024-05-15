@@ -65,7 +65,7 @@ int main(){
             cout << endl;
         }
     } else
-        cout << "No solution exists";
+        cout << "No solution exists\n";
   
     return 0;
 }
