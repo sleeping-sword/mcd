@@ -1,0 +1,12 @@
+insert 50
+insert 10
+insert 90
+insert 20
+insert 10
+insert 65
+check 90
+show
+insert 5
+insert 30
+check 25
+end
